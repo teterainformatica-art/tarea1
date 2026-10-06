@@ -1,3 +1,3 @@
 # tarea1
 repositorio para una tarea de control de versiones
-se ha revelado contra nosotros
+nos estan fusilando
